@@ -5,7 +5,8 @@ This repository contains my **Microsoft Excel assignments and practice projects*
 ## 📁 Repository Contents
 
 The repository includes Excel files covering topics such as:
-
+## 📸 Dashboard Preview
+![Excel Dashboard](Excel_Dashboard_GitHub.png)
 - Data Entry & Data Cleaning  
 - Formulas & Functions  
 - Conditional Formatting  
